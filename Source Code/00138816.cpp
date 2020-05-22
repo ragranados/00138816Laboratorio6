@@ -9,6 +9,8 @@
 
 int main(int argc, char *argv[])
 {
+	
+	cout<<"METODO DE LOS ELEMENTOS FINITOS EN DOS DIMENSIONES CON FUNCIONES DE FORMA LINEALES Y PESOS DE GALERKIN - 00138816";
     char filename[150];
     strcpy(filename,argv[1]);
 
